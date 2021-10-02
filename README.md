@@ -1,4 +1,4 @@
-# CS867-Computer Vision
+# CS867 - Computer Vision
 ## Assignment 1: Basic Image Analysis Operations
 
 Please Click on the Assignment Link to view the Jupyter Notebook
